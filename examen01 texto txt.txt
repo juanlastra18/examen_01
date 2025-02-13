@@ -1,0 +1,6 @@
+Para el ejercicio de fumigación el cual se implemento en el parcial, comencé nombrando las variables y dándoles un valor de cero, para que fuera sumando el contador, para esto realice unas condiciones en las cuales por cada tipo de plaga dependiendo de esta se sumara una y asi mismo las casas que se iban fumigando, siento que falle un poco en el manejo del ciclo while ya que no encontraba como romper el ciclo cuando las 12 casas fueran evaluadas.
+
+1- variables principales tipo de fumigación
+2- condicionales, que tanto se hacia la sumatoria de casas evaluadas ya que solo habían 12 casas
+3-se implementaron condicionales teniendo en cuenta que especie se quería fumigar por casa, teniendo en cuenta cual especie seleccionaba el usuario
+4-el valor final del porcentaje será dependiendo de que especie abunda mas en la unidad o cual fue la que mas se fumigo
